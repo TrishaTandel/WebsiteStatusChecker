@@ -24,3 +24,4 @@ Website status check process:
 1.The tool reads a list of domains from a provided text file. 
 2.It sends automated requests to each domain to determine its live status. 
 3.The results are then compiled and displayed. 
+<img width="965" height="225" alt="image" src="https://github.com/user-attachments/assets/75e9fe50-889e-4c0b-b210-911dd4e044db" />
